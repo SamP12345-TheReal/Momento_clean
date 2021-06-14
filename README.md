@@ -1,5 +1,7 @@
 # Momento Clean 
- A distilled, capable version of the menonto rainmeter skin. 
+A minimal, clean and capable luancher.
+
+Based on the well known Momento skin.
  
  
 ![momento clean screenshot](https://user-images.githubusercontent.com/80009666/121886027-cd252f80-cd0c-11eb-8f01-46b68fccad1d.jpg)
