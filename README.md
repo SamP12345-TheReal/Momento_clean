@@ -38,11 +38,11 @@ The battery meter is taken from <a href="https://visualskins.com/skin/simple-bat
   Left clicking opens This PC
 #### Toolip
   The tooltip says "this pc"
-  ### **Lock**  
+### **Lock**  
  
  ![momento clean screenshot llock](https://user-images.githubusercontent.com/80009666/121887544-c4355d80-cd0e-11eb-83cc-08a3e43def2f.jpg)
 
- #### Double Left Click 
+#### Double Left Click 
   Locks the user, whitout logging out. Double click to prevent accidental use. 
 ### **Recycle Bin**
  
