@@ -1,6 +1,5 @@
 # Momento Clean 
-A minimal, clean and capable luancher.
-
+A minimal, clean and capable launcher.
 Based on the well known Momento skin.
  
  
@@ -65,26 +64,26 @@ The battery meter is taken from <a href="https://visualskins.com/skin/simple-bat
 Opens Microsoft Edge. Can be changed to chrome or anything else
 #### Tooltip 
 Says "Microsoft Edge"
- ### **Wifi**
+### **Wifi**
  
  ![momento clean screenshot wofo](https://user-images.githubusercontent.com/80009666/121887447-a36d0800-cd0e-11eb-87a9-7c23b43112b6.jpg)
 
- #### Bars 
+#### Bars 
   Showes how strong your Wifi connection is
- #### Left Click
+#### Left Click
   Opens network Centre
- #### Tooltip 
+#### Tooltip 
  Shows Internet speeds and text "Network Centre".
  
- ### **USB Ejector**
+### **USB Ejector**
  
  ![momento clean screenshot usb](https://user-images.githubusercontent.com/80009666/121887473-acf67000-cd0e-11eb-960a-1317ca0075d1.jpg)
 
- #### On Left Click 
+#### On Left Click 
   Ejects USB
- #### Tooltip
+#### Tooltip
   Says if a device is ready to eject.
- ## Help 
+## Help 
   **Will be updated soon with how to make easy edits to the skin.**
   Open an issue for any problems/q's/mistakes I made etc...
   
