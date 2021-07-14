@@ -3,8 +3,8 @@ A minimal, clean and capable launcher.
 Based on the well known Momento skin.
  
  
-![momento clean screenshot](https://user-images.githubusercontent.com/80009666/121886027-cd252f80-cd0c-11eb-8f01-46b68fccad1d.jpg)
-
+![Screenshot 2021-07-06 230901](https://user-images.githubusercontent.com/80009666/125642407-4c4d9047-3ade-41d3-bb61-5d8047524fa8.png)
+This image is of the latest, unreleased, version.
 
  A luancher running on <a href="https://rainmeter.net/"> Rainmeter </a>
 ## Rainmeter
