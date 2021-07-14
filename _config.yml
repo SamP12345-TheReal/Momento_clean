@@ -4,3 +4,7 @@ title: Momento Clean
 description: A minimal, clean and capable luancher.
 permalink: pretty
 fixed_navbar: top
+defaults:
+  -
+  show_sidebar: false
+  menubar: example_menu
