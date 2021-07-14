@@ -1,5 +1,5 @@
-remote_theme: andrewbanchich/forty-jekyll-theme
+remote_theme: zerostaticthemes/jekyll-serif-theme
 show_downloads: true
 title: Momento Clean
-description: A minimal, clean and capable luancher. 
-email: Sposterdesign@gmail.com 
+description: A minimal, clean and capable luancher.
+baseurl: "/Momento_clean/"
