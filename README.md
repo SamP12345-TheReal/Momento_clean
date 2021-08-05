@@ -11,7 +11,7 @@ Based on the well-known Momento skin.
  
  
 ![Screenshot 2021-07-06 230901](https://user-images.githubusercontent.com/80009666/125642407-4c4d9047-3ade-41d3-bb61-5d8047524fa8.png)
-This image is of the latest, unreleased, version.
+ *This image is of the latest alpha version.*
 
  A luancher running on <a href="https://rainmeter.net/"> Rainmeter </a>
 ## Rainmeter
